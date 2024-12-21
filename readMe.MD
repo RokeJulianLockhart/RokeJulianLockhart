@@ -1,12 +1,4 @@
 ---
-lang: "<code>eng-GBR-oxendict</code>"
-author:
-  name:
-    3rd: "Beedell"
-    1st: "Roke"
-    2nd: "Julian Lockhart"
-  email: "mailTo:ef4uf956@rokejulianlockhart.addy.io"
-  summary: "https://wim.nl.tab.digital/apps/contacts/All%20contacts/e1f2ec5c-074e-4875-ac62-53ff24770ffa~contacts#:~:text=First-name-,Middle%20names,Surname,-Suffix"
 output:
   html_document:
     number_sections: true
