@@ -78,7 +78,7 @@ output:
 				</summary>
 				<div class="block-indent">
 					<p>
-						This repository contains <a href="https://github.com/RokeJulianLockhart">@RokeJulianLockhart</a>'s publicly available code. All sensible contribution is welcomed. I utilize this account solely to interact with the repositories hosted on this service.
+						I utilize this account solely to interact with the repositories hosted on this service.
 					</p>
 				</div>
 			</details>
