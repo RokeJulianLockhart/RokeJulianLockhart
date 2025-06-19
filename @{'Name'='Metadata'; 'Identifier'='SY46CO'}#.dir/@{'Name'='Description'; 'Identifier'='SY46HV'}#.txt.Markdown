@@ -51,19 +51,19 @@ output:
 		<ol>
 			<li>
 				<h4>
-					Summary
+					A Summarisation Of Activity:
 				</h4>
 				<img src="https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=true&include_all_commits=true&count_private=true#:~:text=Total%20PRs:%2051-,Total%20Issues:,-1.5k%20Contributed%20to">
 			</li>
 			<li>
 				<h4>
-					Languages
+					Program Languages That Commits Have Included:
 				</h4>
 				<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokeJulianLockhart&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact#:~:text=Most%20Used%20Languages,-Python%2091.09%25%20Cython">
 			</li>
 			<li>
 				<h4>
-					Trophies
+					Acquired GitHub Trophies:
 				</h4>
 				<img src="https://github-profile-trophy.vercel.app/?username=RokeJulianLockhart&theme=default&no-frame=false&no-bg=true&margin-w=4#:~:text=S%20S%20S-,Issues,-God%20Issuer%201.5kpt">
 				<!--
