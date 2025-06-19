@@ -70,72 +70,66 @@ output:
 <div class="block-indent">
 	<ol>
 		<li>
-			<details open>
-				<summary>
-					<h4>
-						Summary
-					</h4>
-				</summary>
-				<div class="block-indent">
-					<p>
-						I utilize this account solely to interact with the repositories hosted on this service.
-					</p>
-				</div>
-			</details>
+			<h4>
+				Summary
+			</h4>
+			<div class="block-indent">
+				<p>
+					I utilize this account solely to interact with the repositories hosted on this service.
+				</p>
+			</div>
 		</li>
 		<li>
-			<details>
-				<summary>
-					<h4>
-						Statistics
-					</h4>
-				</summary>
-				<div class="block-indent">
-					<p>
-						Regardless, I have used this account extensively:
-					</p>
-					<table>
-						<tbody>
-							<tr>
-								<th>
-									Summary
-								</th>
-								<td>
-									<img src="https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=true&include_all_commits=true&count_private=true#:~:text=Total%20PRs:%2051-,Total%20Issues:,-1.5k%20Contributed%20to">
-								</td>
+			<h4>
+				Statistics
+			</h4>
+			<div class="block-indent">
+				<p>
+					Regardless, I have used this account extensively:
+				</p>
+				<table>
+					<tbody>
+						<tr>
+							<th>
+								Summary
+							</th>
+							<td>
+								<img src="https://github-readme-stats.vercel.app/api?username=rokejulianlockhart&theme=transparent&hide_border=true&include_all_commits=true&count_private=true#:~:text=Total%20PRs:%2051-,Total%20Issues:,-1.5k%20Contributed%20to">
+							</td>
+						</tr>
+						<tr>
+							<th>
+								Languages
+							</th>
+							<td>
+								<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokeJulianLockhart&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact#:~:text=Most%20Used%20Languages,-Python%2091.09%25%20Cython">
+							</td>
+						</tr>
+						<tr>
+							<th>
+								Trophies
+							</th>
+							<td>
+								<img src="https://github-profile-trophy.vercel.app/?username=RokeJulianLockhart&theme=default&no-frame=false&no-bg=true&margin-w=4#:~:text=S%20S%20S-,Issues,-God%20Issuer%201.5kpt">
+							</td>
+							<!--
+								<table>
+									<tbody>
+										<tr>
+											<th>
+												Information
+											</th>
+											<td>
+												<a href="https://github.com/anuraghazra/github-readme-stats/issues/3613#issue-2100699842:~:text=New%20issue-,Trophies%20Card,-%233613">
+													GitHub FR
+												</a>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							-->
 							</tr>
-							<tr>
-								<th>
-									Languages
-								</th>
-								<td>
-									<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokeJulianLockhart&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact#:~:text=Most%20Used%20Languages,-Python%2091.09%25%20Cython">
-								</td>
-							</tr>
-							<tr>
-								<th>
-									Trophies
-								</th>
-								<td>
-									<img src="https://github-profile-trophy.vercel.app/?username=RokeJulianLockhart&theme=default&no-frame=false&no-bg=true&margin-w=4#:~:text=S%20S%20S-,Issues,-God%20Issuer%201.5kpt">
-								</td>
-								<!--
-									<table>
-										<tbody>
-											<tr>
-												<th>
-													Information
-												</th>
-												<td>
-													<a href="https://github.com/anuraghazra/github-readme-stats/issues/3613#issue-2100699842:~:text=New%20issue-,Trophies%20Card,-%233613">
-														GitHub FR
-													</a>
-												</td>
-											</tr>
-										</tbody>
-									</table>
-								-->
-								</tr>
+							<!--
 								<tr>
 									<th>
 										Visitation
@@ -144,7 +138,7 @@ output:
 										<a href="https://visitcount.itsvg.in/#:~:text=Donate-,PRO%20VISIT%20COUNTER,-More%20than%20just">
 											<img src="https://visitcount.itsvg.in/api?id=RokeJulianLockhart&label=Profile%20Views&color=12&icon=0&pretty=false#:~:text=Profile%20Views,-9745">
 										</a>
-										<!--
+										<template class="comment">
 											<table>
 												<tbody>
 													<tr>
@@ -159,9 +153,9 @@ output:
 													</tr>
 												</tbody>
 											</table>
-										-->
+										</template>
 									</td>
-								<!--
+								<template class="comment">
 									<table>
 										<tbody>
 											<tr>
@@ -190,12 +184,12 @@ output:
 											</tr>
 										</tbody>
 									</table>
-								-->
+								</template>
 							</tr>
-						</tbody>
-					</table>
-				</div>
-			</details>
+						-->
+					</tbody>
+				</table>
+			</div>
 		</li>
 	</ol>
 </div>
