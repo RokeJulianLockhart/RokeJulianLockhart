@@ -33,7 +33,7 @@ output:
 	</a>
 -->
 
-# The GitHub "Profile `README`" For `@RokeJulianLockhart`:
+# The GitHub "Profile `README`":
 
 <ol>
 	<li>
