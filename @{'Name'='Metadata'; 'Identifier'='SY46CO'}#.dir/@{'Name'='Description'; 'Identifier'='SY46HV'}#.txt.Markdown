@@ -33,12 +33,12 @@ output:
 	</a>
 -->
 
-# The GitHub "Profile `README`" For `@RokeJulianLockhart`
+# The GitHub "Profile `README`" For `@RokeJulianLockhart`:
 
 <ol>
 	<li>
 		<h4>
-			The Purpose Of This Account
+			The Purpose Of This Account:
 		</h4>
 		<p>
 			I utilize this account solely to interact with the repositories hosted on this service.
@@ -46,7 +46,7 @@ output:
 	</li>
 	<li>
 		<h4>
-			Utilisation Statistics
+			Utilisation Statistics:
 		</h4>
 		<ol>
 			<li>
