@@ -11,9 +11,6 @@ output:
 		<h1>Mr. Beedell, Roke Julian Lockhart (RJLB)</h1>
 	</li>
 	<li>
-		<p>I am Roke, a software developer in England.</p>
-	</li>
-	<li>
 		<p>I specialize in OS architectures, and GUI consistency, accessibility, and ease of use.</p>
 	</li>
 	<li>
