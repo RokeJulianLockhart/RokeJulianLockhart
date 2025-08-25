@@ -1,3 +1,7 @@
+<details><p></p>
+
+Render the undermentioned in ⪆ `firefox-142.0-1.fc42.x86_64`:
+
 ~~~HTML
 <!DOCTYPE html>
 <html lang="en-GB-oxendict">
@@ -492,3 +496,5 @@
 	</body>
 </html>
 ~~~
+
+<p></p></details>
