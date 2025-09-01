@@ -131,7 +131,7 @@ Render the undermentioned in ⪆ `firefox-142.0-1.fc42.x86_64`:
 								</tbody>
 							</table>
 						</li>
-<li>
+						<li>
 							<h2>KDE Visual Design Group Member</h2>
 							<table>
 								<tbody>
