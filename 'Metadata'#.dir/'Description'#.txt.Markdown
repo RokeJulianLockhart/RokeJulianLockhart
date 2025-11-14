@@ -1,9 +1,1 @@
-<details><p></p>
-
-Render the undermentioned in ⪆ `firefox-142.0-1.fc42.x86_64`:
-
-~~~HTML
-<!-- Deleted because it needs to be replaced. -->
-~~~
-
-<p></p></details>
+[![Last.FM Last Played Song](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/BEEDELLROKEJULI/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
