@@ -18,15 +18,13 @@ During my work, I have become an ardent EU and UN federalist, and support Europo
 
 - Co-Opted Member, Hanworth with Gunton Memorial Hall Management Committee
 
-- Co-Opted MemberHanworth Commons Management Committee
+- Co-Opted Member, Hanworth Commons Management Committee
 
 #### Badges
 
 [![My Last Played Song, From `Last.FM`](https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/BEEDELLROKEJULI/latest-song?format=shields.io)](https://github.com/biancarosa/lastfm-last-played)
 
-<a href="https://nostalebots.xyz/" target="_blank">
-  <img alt="No Stale Bot Here" src="https://img.shields.io/badge/No-Stale_Bot_Here-blue?logo=probot&logoColor=silver">
-</a>
+<a href="https://nostalebots.xyz/" target="_blank"><img alt="No Stale Bot Here" src="https://img.shields.io/badge/No-Stale_Bot_Here-blue?logo=probot&logoColor=silver"></a>
 
 </blockquote>
 
