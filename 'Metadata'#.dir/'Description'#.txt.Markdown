@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 As [my GitLab profile's `readMe.MD`][1] states:
 
 <blockquote>
@@ -10,15 +13,15 @@ As of 2025-08, I had opened 1 990 issues on the official GitHub instance, with a
 
 During my work, I have become an ardent EU and UN federalist, and support Europol, NATO, the ICC, and ICJ. I have also acquired many roles:
 
-- Multi-Scheme Administrator, for Neighbourhood Watch Network
+* Multi-Scheme Administrator, for Neighbourhood Watch Network
 
-- Angel, for Fairphone B.v
+* Angel, for Fairphone B.v
 
-- Co-Opted Digital Communications Lead, for Norfolk Neighbourhood Watch Association
+* Co-Opted Digital Communications Lead, for Norfolk Neighbourhood Watch Association
 
-- Co-Opted Member, Hanworth with Gunton Memorial Hall Management Committee
+* Co-Opted Member, Hanworth with Gunton Memorial Hall Management Committee
 
-- Co-Opted Member, Hanworth Commons Management Committee
+* Co-Opted Member, Hanworth Commons Management Committee
 
 #### Badges
 
@@ -29,3 +32,11 @@ During my work, I have become an ardent EU and UN federalist, and support Europo
 </blockquote>
 
 [1]: https://dub.sh/KWTsOXP
+
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQTACnqipLcrwkiYEfPr9NsMQDxLLgUCaaA/oQAKCRDr9NsMQDxL
+Lms2AQD5Jqj1IzEVM2foHlYRVFakDRbyDq3nhbLqJzj9egR0wQD/dYAEwr+cyEJ1
+V7N+13BJE6bXsW3EY23hSNTpU+Tiugk=
+=vURr
+-----END PGP SIGNATURE-----
