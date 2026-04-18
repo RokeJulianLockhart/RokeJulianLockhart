@@ -10,15 +10,15 @@ As of 2026-04, I had opened 2 461 issues on the official GitHub instance, with a
 
 During my work, I have become an ardent EU and UN federalist. Consequently, I support Europol, NATO, the ICC, and ICJ. This is because of what I have experienced in my many roles.
 
-For Neighbourhood Watch Network, I am a Membership Support Administrator, and a member of its Youth Council and Cyberhood Watch. For NWN's Norfolk Association, I am its (Co-Opted) Digital Communications Lead, and a scheme co-ordinator. For the Crimestoppers Trust, I am a volunteer. For Fairphone B.v, I am an Angel. Additionally, I a co-opted member of the Hanworth Commons Management Committee and Hanworth With Gunton Memorial Hall Committee.
+For Neighbourhood Watch Network, I am a Membership Support Administrator, and a member of its Youth Council and Cyberhood Watch. For NWN's Norfolk Association, I am its (Co-Opted) Digital Communications Lead, and a scheme co-ordinator. For the Crimestoppers Trust, I am a volunteer. For Fairphone B.v, I am an Angel. Additionally, I am a co-opted member of the Hanworth Commons Management Committee and Hanworth With Gunton Memorial Hall Committee.
 
-I intend to become an Emergency Responder for Saint John Ambulance and Hanworth Parish Councillor.
+I intend to become an Emergency Responder for Saint John Ambulance, and a member of the Hanworth Parish Council. Some time later, I intend to become a Special Constable, too.
 
-#### Badges
+#### My Recent Activity
 
-<img src="https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/BEEDELLROKEJULI/latest-song?format=shields.io">
+- [\[…\] `steam-miniprofile/?accountId=871902962&appId=2828860`](https://gamer2810.github.io/steam-miniprofile/?accountId=871902962&appId=2828860)
 
-<img src="https://img.shields.io/badge/No-Stale_Bot_Here-blue?logo=probot&logoColor=silver">
+- <img src="https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/BEEDELLROKEJULI/latest-song?format=shields.io">
 
 </blockquote>
 
